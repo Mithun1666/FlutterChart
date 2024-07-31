@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FlutterChart/static/css/main.fe13b01c.css",
+    "main.js": "/FlutterChart/static/js/main.1f357647.js",
+    "static/js/453.03181815.chunk.js": "/FlutterChart/static/js/453.03181815.chunk.js",
+    "index.html": "/FlutterChart/index.html",
+    "main.fe13b01c.css.map": "/FlutterChart/static/css/main.fe13b01c.css.map",
+    "main.1f357647.js.map": "/FlutterChart/static/js/main.1f357647.js.map",
+    "453.03181815.chunk.js.map": "/FlutterChart/static/js/453.03181815.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe13b01c.css",
+    "static/js/main.1f357647.js"
+  ]
+}
